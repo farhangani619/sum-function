@@ -8,3 +8,6 @@ function add(...args){
 }
 const sum = add(5,5,5,5,5)
 console.log(sum)
+
+
+module.exports=add
